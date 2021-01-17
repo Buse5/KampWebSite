@@ -1,0 +1,12 @@
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\bin\Debug\netcoreapp3.1\LoginData.deps.json
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\bin\Debug\netcoreapp3.1\LoginData.runtimeconfig.json
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\bin\Debug\netcoreapp3.1\LoginData.runtimeconfig.dev.json
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\bin\Debug\netcoreapp3.1\LoginData.dll
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\bin\Debug\netcoreapp3.1\LoginData.pdb
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\obj\Debug\netcoreapp3.1\LoginData.csprojAssemblyReference.cache
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\obj\Debug\netcoreapp3.1\LoginData.AssemblyInfoInputs.cache
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\obj\Debug\netcoreapp3.1\LoginData.AssemblyInfo.cs
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\obj\Debug\netcoreapp3.1\LoginData.csproj.CoreCompileInputs.cache
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\obj\Debug\netcoreapp3.1\LoginData.dll
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\obj\Debug\netcoreapp3.1\LoginData.pdb
+C:\Users\BuseYalcin\source\repos\Proje\LoginData\obj\Debug\netcoreapp3.1\LoginData.genruntimeconfig.cache

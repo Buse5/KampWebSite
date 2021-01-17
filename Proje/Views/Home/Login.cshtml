@@ -1,0 +1,53 @@
+﻿@model Proje.Models.Login
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<link rel="stylesheet" href="~/css/Login.css" media="all">
+<div class="login-wrap">
+    <div class="login-html">
+        <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">GİRİŞ YAP</label>
+        <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab"></label>
+        <div class="login-form">
+            <div class="login-form">
+                <div class="sign-in-htm">
+                    <div class="group">
+                        <form asp-action="Login">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group">
+                                <label asp-for="userName" class="label">E-POSTA</label>
+                                <input asp-for="userName" class="input" />
+                                <span asp-validation-for="userName" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="password" class="label">ŞİFRE</label>
+                                <input asp-for="password" class="input" />
+                                <span asp-validation-for="password" class="text-danger"></span>
+                            </div>
+                            <div class="group">
+                            </div>
+                            <div class="group">
+                                <input type="submit" class="button" value="GİRİŞ">
+                            </div>
+                            <div class="hr"></div>
+                            <div class="foot-lnk">
+
+                            </div>
+                            <div class="group">
+                                <input type="submit" class="button" value="Kaydolmak İçin Tıkla" >
+                                
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+
